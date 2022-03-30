@@ -1,13 +1,11 @@
-package com.example.javafx;
+package com.example.javafx.homework_1;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
-import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.util.Objects;
 
 public class SummationApplication extends Application {
   @Override

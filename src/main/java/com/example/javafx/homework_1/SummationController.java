@@ -1,4 +1,4 @@
-package com.example.javafx;
+package com.example.javafx.homework_1;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
